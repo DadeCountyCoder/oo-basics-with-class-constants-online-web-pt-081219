@@ -12,7 +12,6 @@ class Book
 
 end
 
-  Genres = []
 
   def genre=(genre)
     @genre = genre
